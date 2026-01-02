@@ -10,7 +10,7 @@ The SQL queries used to inspect and clean the data for this analysis can be foun
 
 Targed SQL queries regarding various business questions can be found here [[link](https://console.cloud.google.com/bigquery?sq=828042076658:0f35266377364fa98d6310feee693a6c)].
 
-An interactive Tableau dashboard used to report and visualize churners prediction using ML can be found here [[link](https://public.tableau.com/shared/SS477HCQQ?:display_count=n&:origin=viz_share_link)].
+An interactive Tableau dashboard used to report and visualize churners prediction using ML can be found here [[link](https://public.tableau.com/shared/TKJ5M752Q?:display_count=n&:origin=viz_share_link)].
 
 
 
